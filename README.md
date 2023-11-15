@@ -46,3 +46,5 @@ There are 2 ways to run these APIs:
    + ```POST http://home-assignment-eb.ap-southeast-1.elasticbeanstalk.com/tasks```
    + ```PUT http://home-assignment-eb.ap-southeast-1.elasticbeanstalk.com/tasks/{id}```
    + ```DELETE http://home-assignment-eb.ap-southeast-1.elasticbeanstalk.com/tasks/{id}```
+
+I also implemented some error handling. But given the short time, it might not cover all the cases.
