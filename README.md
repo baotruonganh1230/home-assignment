@@ -11,7 +11,7 @@ There are 2 ways to run these APIs:
   ![img.png](img.png)
 
 
-- Clone this github repository to your local machine
+- Clone this github repository or download and extract the google drive zip to your local machine
 - Open the command line inside the folder you've just clone the repo
 - Execute this command: ```docker-compose up``` and wait until the server is ready.
 
