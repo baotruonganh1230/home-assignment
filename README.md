@@ -42,7 +42,7 @@ There are 2 ways to run these APIs:
 - The authetication endpoint is: ```http://home-assignment-eb.ap-southeast-1.elasticbeanstalk.com/auth/login```
 - List of other available endpoints are:
    + ```GET http://home-assignment-eb.ap-southeast-1.elasticbeanstalk.com/tasks```
-   + ```GET http://home-assignment-eb.ap-southeast-1.elasticbeanstalk.com/{id}```
+   + ```GET http://home-assignment-eb.ap-southeast-1.elasticbeanstalk.com/tasks/{id}```
    + ```POST http://home-assignment-eb.ap-southeast-1.elasticbeanstalk.com/tasks```
    + ```PUT http://home-assignment-eb.ap-southeast-1.elasticbeanstalk.com/tasks/{id}```
    + ```DELETE http://home-assignment-eb.ap-southeast-1.elasticbeanstalk.com/tasks/{id}```
