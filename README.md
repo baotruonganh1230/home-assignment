@@ -5,8 +5,8 @@ This is my implement for the Simple RESTful API Take Home Assignment.
 There are 2 ways to run these APIs:
 
 1. Use Docker:
-- Go to the official website and install Docker: https://docs.docker.com/engine/install/
-- Once installed, open the command line and verify it with command: ```docker --version``` before going to the next step
+- Install Docker: https://www.docker.com/products/docker-desktop/
+- Once installed, open the command line and verify it with command: ```docker info``` before going to the next step
 
   ![img.png](img.png)
 
